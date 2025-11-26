@@ -55,6 +55,3 @@ public class CountDigits {
 
 ## Result:
 Thus, the Java program to to count the number of digits in an integer is implemented successfully.
-
-## Result:
-Thus, the Java program to to count the number of digits in an integer is implemented successfully.
