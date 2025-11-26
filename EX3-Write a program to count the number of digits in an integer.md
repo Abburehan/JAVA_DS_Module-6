@@ -13,7 +13,8 @@ To write a C program to implement Tower of Hanoi
 6. Display the total count of digits. 7.Stop the program.    
 
 ## Program:
-```
+```PY
+/*
 Program to to count the number of digits in an integer
 Developed by: Syed Abbu Rehan
 RegisterNumber:  212223240165
